@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Testing Automate , by: Sebastian Pandu W</h1>
+   <h1>Testing Automate , by: Sebastian Pandu Wiratama</h1>
    
 
   
